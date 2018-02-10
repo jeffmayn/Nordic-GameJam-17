@@ -6,3 +6,5 @@ raiding an old ladys house, searching for all of her electronics.
 
 See more at:
 https://loxfear.itch.io/licens
+<hr>
+<img src="http://gyldenbrand.dk/github/gamejam17/1.png">
