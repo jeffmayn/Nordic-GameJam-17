@@ -8,3 +8,4 @@ See more at:
 https://loxfear.itch.io/licens
 <hr>
 <img src="http://gyldenbrand.dk/github/gamejam17/1.png" height="250">
+<img src="http://gyldenbrand.dk/github/gamejam17/2.png" height="250">
